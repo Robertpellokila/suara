@@ -23,7 +23,7 @@ const features = [
   },
   {
     icon: 'check',
-    title: 'One Person, One Vote',
+    title: 'Satu orang satu suara',
     desc: 'Setiap pemilih hanya dapat memberikan satu suara per pemilihan. Sistem mencegah duplikasi.',
   },
   {
